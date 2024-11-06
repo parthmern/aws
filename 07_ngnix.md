@@ -62,12 +62,32 @@ http {
 
 ```
 
+- here is how to do for multiple ports ( https://chatgpt.com/share/672b7c89-99b4-8010-8787-1090cf6b4615 )
+- make sure that the domain/url is pointing to the public ip where your ec2 instance/server is running in DNS/DOMAIN managaement
+- for local testing u can do changes as below in /etc/hosts/
 
-#### extra
+
+#### extra ( how to change hosts of your local machine)
 
 - how to change host of your local machine like for specific url/domain hit this specific ip
 
 ```
 sudo vi /etc/hosts 
-// it opens hosts file
+// it opens hosts file like below
 ```
+
+![image](https://github.com/user-attachments/assets/ce837e94-5fbb-491e-902c-322344e3ff18)
+
+then change it to this
+
+![image](https://github.com/user-attachments/assets/37d7bb5e-eaa0-474f-baa6-57d4023ecfc0)
+
+here i  can see that for "parthmern.com" domain in my local machine i am hitting ip named "3.144.221.193" which is ip of my ngnix server right now
+
+![image](https://github.com/user-attachments/assets/9abb7e72-65f0-445a-9ffa-f91736fbf3fc)
+
+here above image i can see that for parthmern.com url my local machine here ec2 machine is hitting the ip "3.144.221.193" which i set on /etc/hosts config file
+
+- here sometimes in local machine when u hit with chrome browser it redirects to the actual original ip eventhoug i changed it because of CACHING DNS techniques inshort caching so we can see it using cli or try with another browser
+
+- IMP : ip cannot go beyong 255 as we know
