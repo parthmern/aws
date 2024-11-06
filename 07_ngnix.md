@@ -7,3 +7,5 @@
 
 - ( generally by default your public ip for machine is running on port 80)
 
+
+![image](https://github.com/user-attachments/assets/b54014a2-433b-4dca-a916-7f5a23612f44)
