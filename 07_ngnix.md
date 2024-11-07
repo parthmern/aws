@@ -91,3 +91,5 @@ here above image i can see that for parthmern.com url my local machine here ec2 
 - here sometimes in local machine when u hit with chrome browser it redirects to the actual original ip eventhoug i changed it because of CACHING DNS techniques inshort caching so we can see it using cli or try with another browser
 
 - IMP : ip cannot go beyong 255 as we know
+
+
