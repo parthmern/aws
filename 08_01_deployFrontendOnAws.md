@@ -22,4 +22,3 @@
 #### POP= Point of Presence AND SOURCE is only one
 - why we are not creating multiple source storage for same data bcz that is expensive
 
-- https://projects.100xdevs.com/tracks/w5E6PT2t0IyOFM3bZxcM/aws-fe-2
