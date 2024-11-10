@@ -37,3 +37,8 @@
 <br/>
 
 - now go to distrubution that u created where u can get "Distribution domain name" link is `https://d2qd6kafiqzly6.cloudfront.net/` where your frontend is deployed 
+
+
+# GET ssl certificate ( https )
+
+- https://youtu.be/YVbwVet8aI4?si=2SuxGYbczvIs50kC
