@@ -62,6 +62,14 @@ http {
 
 ```
 
+and fter doing this restart ngnix
+
+```
+sudo systemctl restart nginx
+
+sudo apt update
+```
+
 - here is how to do for multiple ports ( https://chatgpt.com/share/672b7c89-99b4-8010-8787-1090cf6b4615 )
 - make sure that the domain/url is pointing to the public ip where your ec2 instance/server is running in DNS/DOMAIN managaement
 - for local testing u can do changes as below in /etc/hosts/
