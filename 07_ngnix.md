@@ -101,3 +101,8 @@ here above image i can see that for parthmern.com url my local machine here ec2 
 - IMP : ip cannot go beyong 255 as we know
 
 
+### HOW TO GET SSL certificate ( https )
+
+![image](https://github.com/user-attachments/assets/1cc4bb17-cc0e-4355-89da-c869c1543d3f)
+
+then reload ngnix `sudo systemctl reload nginx`
