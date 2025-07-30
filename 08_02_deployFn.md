@@ -3,6 +3,7 @@
 - https://projects.100xdevs.com/tracks/w5E6PT2t0IyOFM3bZxcM/aws-fe-2
 
 - full video https://youtu.be/2uDbssuz-Aw?si=XmAVRdxVL50SO1er
+- domain setup and certify https://youtu.be/PJJA8tkmVvs?si=-zR6mpTYnQ2hOKgB
 
 - This approach will not work for frameworks that use Server side rendering (like Next.js)
 - This will work for basic React apps(convert jsx files to raw html and css,js), HTML/CSS/JS apps
